@@ -70,43 +70,11 @@ Quando não estou programando, provavelmente estou **lendo um livro, mexendo na 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TatianeMikye&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatianeMikye&layout=compact&langs_count=8&theme=radical"/>
-
-</div>
-
----
-
 ## 🔥 Minha atividade
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TatianeMikye&theme=radical&hide_border=false"/>
-
-</div>
-
----
-
-## 📈 Gráfico de contribuições
-
-<div align="center">
-
-[![Gráfico de atividades](https://github-readme-activity-graph.vercel.app/graph?username=TatianeMikye&theme=dracula)](https://github.com/TatianeMikye)
-
-</div>
-
----
-
-## 🐍 A cobrinha dos commits
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/TatianeMikye/TatianeMikye/output/github-contribution-grid-snake.svg)
 
 </div>
 
