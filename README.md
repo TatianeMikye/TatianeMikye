@@ -96,7 +96,7 @@ Quando não estou programando, provavelmente estou **lendo um livro, mexendo na 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TatianeMikye&theme=tokyo-night&hide_border=true"/>
+[![Gráfico de atividades](https://github-readme-activity-graph.vercel.app/graph?username=TatianeMikye&theme=dracula)](https://github.com/TatianeMikye)
 
 </div>
 
