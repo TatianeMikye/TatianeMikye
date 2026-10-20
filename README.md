@@ -136,23 +136,6 @@ Gosto de criar pequenos projetos e ferramentas para resolver problemas do dia a 
 
 ---
 
-# 📈 Gráfico de contribuições
-
-
-# 📈 Gráfico de contribuições
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=TatianeMikye&theme=dracula&hide_border=true&area=true"
-  alt="Gráfico de atividades do GitHub"
-/>
-
-</div>
-
-
----
-
 # 🐍 A cobrinha dos commits
 
 <div align="center">
